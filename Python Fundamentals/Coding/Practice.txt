@@ -1,0 +1,4 @@
+This is a sample file 
+It is made by us 
+to solve the python
+activity whihc we are going to perform 
